@@ -74,7 +74,7 @@ int main()
 	book.add(RecordBookEntry("Bob", 15));
 
 	// Ask the user for the name
-	int target = "";
+	string target = "";
 	cout << "Enter name to search: ";
 	cin >> target;
 
